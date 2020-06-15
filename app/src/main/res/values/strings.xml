@@ -9,4 +9,47 @@
 
     <string name="hello_first_fragment">Measurement Page</string>
     <string name="hello_second_fragment">Measurement Page 2</string>
+    <string name="measurements">Measurements</string>
+    <string name="add_your_measurements">Add your measurements.</string>
+    <string name="unsure_of_how_to_measure_yourself">Unsure of how to measure yourself?</string>
+    <string name="click_here_or_skip_to_do_it_later">Click Here or Skip to do it later.</string>
+    <string name="height">Height</string>
+    <string name="waist">Waist</string>
+    <string name="ft">ft</string>
+    <string name="hips">Hips</string>
+    <string name="in">in</string>
+    <string name="cup">cup</string>
+    <string name="bra_size">Bra Size</string>
+    <string name="band">band</string>
+    <string name="chest">Chest</string>
+    <string name="what_dress_size_do_you_normally_wear">What dress size do you normally wear?</string>
+    <string name="what_bottom_size_do_you_normally_wear">What bottom size do you normally wear?</string>
+    <string name="what_top_size_do_you_normally_wear">What top size do you normally wear?</string>
+    <string name="next_caps">NEXT</string>
+    <string name="skip">Skip</string>
+    <string name="measurement_tips_for_the_perfect_fit">Measurement tips for the perfect fit.</string>
+    <string name="how_to_measure">How to Measure</string>
+    <string name="height_with_colon">Height:</string>
+    <string name="stand_straight_with_feet_together">- Stand straight with feet together</string>
+    <string name="begin_at_the_top_of_the_head_and_pull_tape">- Begin at the top of the head and pull tape straight down to the floor</string>
+    <string name="waist_with_colon">Waist:</string>
+    <string name="bend_to_one_side_to_find_the_natural_crease_of_your_waist">- Bend to one side to find the natural crease of your waist</string>
+    <string name="this_is_the_slimmest_part_of_the_waist">- This is the slimmest part of the waist</string>
+    <string name="measure_across_at_this_point">- Measure across at this point</string>
+    <string name="keep_tape_slightly_loose_to_allow_for_breathing_room">- keep tape slightly loose to allow for breathing room</string>
+    <string name="hips_with_colon">Hips:</string>
+    <string name="stand_with_feet_together">- Stand with feet together</string>
+    <string name="measure_around_the_fullest_part_of_the_hips_and_rear">- Measure around the fullest part of the hips and rear</string>
+    <string name="tape_should_brush_across_both_hipbones">- Tape should brush across both hipbones</string>
+    <string name="chest_with_colon">Chest:</string>
+    <string name="measure_around_the_fullest_part_of_your_chest">- Measure around the fullest part of your chest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_measurement">Select Measurement</string>
+    <string name="male">Male</string>
+    <string name="female">female</string>
+    <string name="click_here">Click Here</string>
+    <string name="or">or</string>
+    <string name="skip_to_do_it_later">Skip to do it later.</string>
+    <string name="cm">cm</string>
 </resources>
