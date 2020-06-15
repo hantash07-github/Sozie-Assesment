@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
         transaction.replace(viewBinding.contentMain.containerMain.getId(), new BodySelectionFragment(), "");
         transaction.commit();
+
     }
 
     @Override
